@@ -1,1 +1,4 @@
 # aBot
+
+I decided to make my machine learning assignment more intresting.How?Through using the Algorithm we learnt to solve real world problems.
+This is why its under the whatsapp robot repo. Well lets switch things up . Whatsapp robots can the boring hey . Imagine chatting to your agent telling him you want to move out then the whats approbot replies hi , here is a list of rentals currently avalaible..................................................this is Joe i will get back to you . Like No Joe you ddnt answer the message why are you sending such a long irrelevent meassage .So what this code does is screens the messages by Learning messages sent to Joe and evaluating what the person wants from Joe and respondig accordingly . I have tested with 30 percent of the data and this proved to be 80 percent accurate which means we will only be annoying 20% with Joes irrelevent messages
